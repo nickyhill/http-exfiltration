@@ -1,0 +1,1 @@
+This is the data to be exfiltrated using ICMP, specifically, in an echo request. ICMP echo packets have a data field where data can be inserted. This is where the data to exfiltrated will be added.
